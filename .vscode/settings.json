@@ -1,0 +1,10 @@
+{
+     // Set the font
+     "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+     "editor.fontSize": 13,
+     "editor.fontWeight": "normal",
+     "editor.fontLigatures": true,
+     "editor.letterSpacing": 0.4,
+     "editor.smoothScrolling": true,
+     "editor.lineHeight": 1.7,
+}
